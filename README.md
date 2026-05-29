@@ -1,4 +1,4 @@
-# Custom PQC Key Tools
+# Custom PQC Key Tools (Updated Version)
 
 These are three small C programs that work together to create and use post-quantum keys plus Bitcoin styled keys. This is a completely custom setup and is not intended to be used with keys that contain real value, wealth or have the potential to do so. 
 
